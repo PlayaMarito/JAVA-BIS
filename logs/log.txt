@@ -1,0 +1,4 @@
+Inicio del programa.
+Números ingresados: 4, 3
+Resultado de la multiplicación: 12
+Fin del programa.
