@@ -4,9 +4,9 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class EjemploTryCatch {
+public class TryCatch {
 
-    private static final Logger logger = Logger.getLogger(EjemploTryCatch.class.getName());
+    private static final Logger logger = Logger.getLogger(TryCatch.class.getName());
     public static void main(String[] args) {
         logger.setLevel(Level.INFO);
         String apellido="";
